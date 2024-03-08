@@ -1,0 +1,7 @@
+main
+/bin
+/CMakeFiles
+*.cmake
+CMakeCache.txt
+Makefile
+/my_venv
